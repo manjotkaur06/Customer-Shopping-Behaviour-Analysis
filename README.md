@@ -11,11 +11,11 @@ The goal is to help businesses identify high-value customers, understand buying 
 
 🗂️ Dataset Overview
 
-Total Purchases: 3,300
+1.Total Purchases: 3,300
 
-Total Columns: 18
+2.Total Columns: 18
 
-Missing Values: 37
+3.Missing Values: 37
 
 Data includes demographics, purchase amount, discounts, subscriptions, shipping type, product category, and review ratings.
 
@@ -39,78 +39,78 @@ Power BI – Interactive dashboard & visualization
 
 🔍 SQL Business Questions Answered
 
-Revenue comparison by gender
+1. Revenue comparison by gender
 
-High-spending customers who used discounts
+2. High-spending customers who used discounts
 
-Top 5 products by average review rating
+3. Top 5 products by average review rating
 
-Purchase comparison by shipping type
+4. Purchase comparison by shipping type
 
-Subscription vs non-subscription spend & revenue
+5. Subscription vs non-subscription spend & revenue
 
-Products with highest discount usage
+6. Products with highest discount usage
 
-Customer segmentation into New, Returning, Loyal
+7. Customer segmentation into New, Returning, Loyal
 
-Top 3 products per category
+8. Top 3 products per category
 
-Relationship between repeat buyers and subscriptions
+9. Relationship between repeat buyers and subscriptions
 
-Revenue contribution by age group
+10. Revenue contribution by age group
 
 📊 Customer Behavior Dashboard
 <p align="center"> <img src="C:\Users\manjo\Pictures\Screenshots\Screenshot 2026-01-09 102831.png" width="900"/> </p>
 🔑 Key KPIs
 
-Number of Customers: 3.9K
+1. Number of Customers: 3.9K
 
-Average Purchase Amount: $59.76
+2. Average Purchase Amount: $59.76
 
-Average Review Rating: 3.75
+3. Average Review Rating: 3.75
 
 🎛️ Interactive Filters
 
-Subscription Status
+1. Subscription Status
 
-Gender
+2. Gender
 
-Product Category
+3. Product Category
 
-Shipping Type
+4. Shipping Type
 
 These slicers allow dynamic exploration of customer behavior and revenue trends.
 
 💡 Key Insights
 🧍 Customer Segmentation
 
-50% customers are first-time buyers, indicating strong acquisition but a retention opportunity
+a. 50% customers are first-time buyers, indicating strong acquisition but a retention opportunity
 
-35% returning customers and 15% loyal customers contribute disproportionately to revenue
+b. 35% returning customers and 15% loyal customers contribute disproportionately to revenue
 
-Overall loyalty rate observed at 78%
+c. Overall loyalty rate observed at 78%
 
 💰 Subscription & Revenue Impact
 
-Only 27% of customers are subscribed, yet they contribute ~68% of total revenue
+a. Only 27% of customers are subscribed, yet they contribute ~68% of total revenue
 
-Subscribed customers show ~45% higher average spend than non-subscribers
+b. Subscribed customers show ~45% higher average spend than non-subscribers
 
-High-value customers actively use discounts, indicating smart and strategic shopping behavior
+c. High-value customers actively use discounts, indicating smart and strategic shopping behavior
 
 🚚 Shipping Preferences
 
-Express shipping customers spend more on average ($65)
+a. Express shipping customers spend more on average ($65)
 
-Standard shipping customers spend ~$58, showing faster delivery increases order value
+b. Standard shipping customers spend ~$58, showing faster delivery increases order value
 
 🛍️ Product Performance
 
-Top-rated products: Blouse, Dress, Shorts
+a. Top-rated products: Blouse, Dress, Shorts
 
-Clothing and Accessories dominate both revenue and sales volume
+b. Clothing and Accessories dominate both revenue and sales volume
 
-Strong opportunity for targeted promotions and premium positioning
+c. Strong opportunity for targeted promotions and premium positioning
 
 🎯 Strategic Business Recommendations
 
