@@ -43,7 +43,7 @@ The analysis answers *why customers spend*, *who generates revenue*, and *how bu
 ## 📊 Customer Behavior Dashboard
 
 <p align="center">
-  <img src="C:\Users\manjo\Pictures\Screenshots\Screenshot 2026-01-09 102831.png" width="900"/>
+  <img src="dashboard_overview.png" width="900"/>
 </p>
 
 ### 🔑 Key KPIs
